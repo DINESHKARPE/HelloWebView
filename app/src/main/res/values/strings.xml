@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWebView</string>
+    <string name="index_url">file:///android_asset/index.html</string>
+</resources>
